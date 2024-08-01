@@ -7,7 +7,7 @@
 
 CSTT 国外名校 CS 课程中文翻译组 是由 CS 自学社区（https://www.learncs.site) 仿照“Linux中国”发起的课程翻译组，负责将国外大学优秀的CS课程字幕翻译为中文，并发布到 CS 自学社区。
 
-![](banner.jpg)
+![](b.jpg)
 
 ## CSTT 流程
 
